@@ -66,7 +66,6 @@ ul.menu li:hover {
 
 .row{
   width: 100%;
-  height: 1000px;
   background-color: coral;
 }
 
@@ -113,4 +112,26 @@ div.text-widget{
   margin: 10px 0 25px;
   padding: 10px;
   border-radius: 3%;
+}
+
+.footer{
+  width: 100%;
+  height: 100px;
+  background-color: blue;
+  text-align: center;
+}
+
+hr{
+  border: 1px solid black;
+}
+.icon-element{
+  width:33%;
+  text-align: center;
+  padding-top: 25px;
+  float: left;
+}
+
+.icon-element img{
+  width: 25px;
+
 }
